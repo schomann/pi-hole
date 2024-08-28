@@ -3,7 +3,7 @@
 # The following entries are based on results from Test Ad Block - Toolz
 # https://d3ward.github.io/toolz/adblock
 
-127.0.0.1 adtago.s3.amazonaws.com
-127.0.0.1 analyticsengine.s3.amazonaws.com
+adtago.s3.amazonaws.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
 127.0.0.1 analytics.s3.amazonaws.com
 127.0.0.1 advice-ads.s3.amazonaws.com
